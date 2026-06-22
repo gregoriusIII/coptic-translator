@@ -1,0 +1,12 @@
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Code Editor configuration files
+.vscode/
+.idea/
+*.suo
+*.swp
+*.log
